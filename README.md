@@ -2,6 +2,6 @@
 INFO 5100 Group 9
 
 Group Members:
-Astrid Noizillier
-Kinder Izzo Celemin
-Mayu Rocha Yamada
+Astrid Noizillier (Member 1)
+Kinder Izzo Celemin (Member 2)
+Mayu Rocha Yamada (Member 3)
